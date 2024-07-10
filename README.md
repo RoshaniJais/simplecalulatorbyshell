@@ -1,0 +1,2 @@
+# simplecalulatorbyshell
+shell scripting project
